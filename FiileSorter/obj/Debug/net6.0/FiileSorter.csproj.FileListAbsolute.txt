@@ -1,0 +1,15 @@
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\bin\Debug\net6.0\FiileSorter.exe
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\bin\Debug\net6.0\FiileSorter.deps.json
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\bin\Debug\net6.0\FiileSorter.runtimeconfig.json
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\bin\Debug\net6.0\FiileSorter.dll
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\bin\Debug\net6.0\FiileSorter.pdb
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.AssemblyInfo.cs
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.dll
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\refint\FiileSorter.dll
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.pdb
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\FiileSorter.genruntimeconfig.cache
+C:\Users\Robert\source\repos\FiileSorter\FiileSorter\obj\Debug\net6.0\ref\FiileSorter.dll
